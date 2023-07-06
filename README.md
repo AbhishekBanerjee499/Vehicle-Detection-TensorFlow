@@ -11,5 +11,8 @@ Train-test stratified Random Split: 80:20 ratio (14208 training images and 3552 
 Models used: Custom MLP ANN, Custom CNN, Pre-trained EfficientNetV2S and Pre-trained MobileNetV3
 
 Best Test set Accuracy: EfficientNetV2S (99% accuracy, FP=4, FN=2)
+
 Highest Training time: EfficientNetV2S (18.33 mins)
+
 Lowest Training time: Custom MLP ANN (1.28 mins)
+
